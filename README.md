@@ -16,6 +16,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img align="center" alt="powerbi" height="30" width="40" src="https://logosmarcas.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo-2013-2016.jpg">
   <img align="center" alt="bancodedados" height="35" width="40" src="https://img.freepik.com/vetores-premium/rotulo-de-icone-sql-structured-query-language-internet-security-and-networking-vector-ilustracao-stock_100456-10733.jpg">
+  <img align="center" alt="bancodedados" height="35" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
 
 </div>
 
